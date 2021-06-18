@@ -1,2 +1,2 @@
-# Mapping-Data-to-components
+# React-Props-Practice
 Created with CodeSandbox
